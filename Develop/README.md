@@ -14,6 +14,9 @@ In IMAGES directory you will find 7x image files.
 
 [ PATCH 1.2 ]
 DATE: 10/10/20
+
+Summary of Changes:
+
 - .content formatting can apply same to Section HTML tag, Removed class and replaced formatting in Section Tag.
 - Comments added into index.html & style.css file. 
 - Removed unneccessary </img> tag found under cost management.
@@ -22,6 +25,7 @@ DATE: 10/10/20
 DATE: 10/08/20
 
 Summary of Changes: 
+
  - .header class formatting can apply same to Header HTML tag, Removed class and replaced formatting in Header Tag.
  - .footer class formatting can apply same to Footer HTML tag, Removed class and replaced formatting in Footer Tag.
  - .benefit class formatting can apply same to Aside HTML tag, Removed class and placed all formatting in Aside Tag.
@@ -40,7 +44,7 @@ Summary of Changes:
 DATE: 10/07/20
 
 Summary of Changes:
-File: index.html updates...
+
  - Reviewed all HTML and CSS.
  - Title updated to represent webpage content.
  - Multiple Div section changed to HTML semantic labels (header, nav, figure, section, article, aside, footer).
