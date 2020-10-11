@@ -10,6 +10,12 @@ In CSS directory, you will find #style.css.
 In IMAGES directory you will find 7x image files. 
 >> Please maintain this orientation for INDEX.HTML to operate properly. 
 
+
+## Website Display
+
+[Website IMG] https://doublem1nt.github.io/HoriseonSEO/Develop/screenshotWEBSITE.JPG
+[Webiste IMG] https://doublem1nt.github.io/HoriseonSEO/Develop/screenshotWEBSITE2.JPG
+
 ## Summary of Changes
 
 [ PATCH 1.2 ]
@@ -20,6 +26,7 @@ Summary of Changes:
 - .content formatting can apply same to Section HTML tag, Removed class and replaced formatting in Section Tag.
 - Comments added into index.html & style.css file. 
 - Removed unneccessary </img> tag found under cost management.
+- Uploaded & Added screenshots of Client website
 
 [ PATCH 1.1 ]
 DATE: 10/08/20
