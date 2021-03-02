@@ -1,6 +1,17 @@
 # HoriseonSEO
 
-Client Horiseon is looking to improve their HTML / CSS code so that their website is concise and optimized for accessbility standards. 
+Client "Horiseon SEO" is looking to improve their HTML / CSS code so that their website is concise and optimized for accessbility standards. 
+
+## Description / Usage
+Common practical assignments in software industry include situations where clients provide raw code for engineers to refactor. Usage of this application was to introduce "Code Refactoring" as a concept. Code Refactoring is taking code and revising it to be more concise / dry for efficiency optimization.
+
+## Deployed Static Website (Github)
+https://doublem1nt.github.io/HoriseonSEO/Develop/
+
+## Website Display
+
+![screenshot#1](./assets/images/screenshotWEBSITE.JPG)
+![screenshot#2](./public/images/screenshotWEBSITE2.jpg)
 
 ## Installation
 
@@ -9,12 +20,6 @@ Within asset folder should be two adjacent directories: CSS and IMAGES.
 In CSS directory, you will find #style.css. 
 In IMAGES directory you will find 7x image files. 
 >> Please maintain this orientation for INDEX.HTML to operate properly. 
-
-
-## Website Display
-
-[Website IMG] https://doublem1nt.github.io/HoriseonSEO/Develop/screenshotWEBSITE.JPG
-[Webiste IMG] https://doublem1nt.github.io/HoriseonSEO/Develop/screenshotWEBSITE2.JPG
 
 ## Summary of Changes
 
@@ -59,7 +64,9 @@ Summary of Changes:
  - Fixed issue with Navbar SEO HREF not jumping to below content section.
  - Replaced div with semantic HTML headings to properly link functions in HTML file.
 
-## Contributing
-Jonathan Yee, Junior Developer
-jyee@jonathanyee.com
-Work Phone: (HEH) OMG-FAKE
+## License 
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Contact
+Jonathan Yee
+jyeewasabi@gmail.com
