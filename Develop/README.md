@@ -11,7 +11,7 @@ https://doublem1nt.github.io/HoriseonSEO/Develop/
 ## Website Display
 
 ![screenshot#1](./assets/images/screenshotWEBSITE.JPG)
-![screenshot#2](./public/images/screenshotWEBSITE2.jpg)
+![screenshot#2](./assets/images/screenshotWEBSITE2.jpg)
 
 ## Installation
 
